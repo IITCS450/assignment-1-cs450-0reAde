@@ -1,5 +1,6 @@
 #ifndef CS450_COMMON_H
 #define CS450_COMMON_H
+#include <sys/types.h>
 #include <errno.h>
 #include <stdio.h>
 #include <stdlib.h>
